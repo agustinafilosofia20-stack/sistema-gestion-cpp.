@@ -16,5 +16,3 @@ Proyecto básico de **sistema de gestión de inventario** desarrollado en C++.
 
 ## Descripción
 Este proyecto es un ejemplo funcional de manejo de archivos y estructuras básicas en C++, ideal para demostrar conocimientos básicos de programación y gestión de datos en un portafolio.
-
-> Proyecto básico pero completo, perfecto para mostrar tu trabajo en GitHub.
