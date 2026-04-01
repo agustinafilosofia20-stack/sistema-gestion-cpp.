@@ -1,0 +1,5 @@
+camisa;29.99;10
+pantalon;49.99;5
+zapatos;79.99;8
+mochila;39.99;12
+gorra;19.99;20

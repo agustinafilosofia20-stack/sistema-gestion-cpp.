@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1770400753 source:c:\users\maria\onedrive\documentos\sistema_gestion_marketplace\main.cpp
+	<iostream>
+	<string>
+	<vector>
+	<fstream>
+

@@ -1,0 +1,9 @@
+# Carpetas de compilación
+bin/
+obj/
+
+# Archivos de sistema
+*.exe
+*.out
+*.o
+*.log 
